@@ -1,0 +1,2 @@
+Room Type: Single Economy, Rooms: 1, Days: 1, Charge: $60.6
+Room Type: Double Deluxe, Rooms: 10, Days: 1, Charge: $1100.0

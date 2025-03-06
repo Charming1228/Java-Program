@@ -1,0 +1,4 @@
+3
+Single Economy| 1 king-size bed|60.60
+Double Deluxe|2 queen-size beds, comfortable pullout sofabed|110.00
+Executive Suite|Seperate sleeping quarters with kind-size bed|150.50
