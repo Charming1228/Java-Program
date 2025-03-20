@@ -1,0 +1,5 @@
+Book,Java编程思想,Bruce Eckel,89.99
+Book,算法导论,Thomas H. Cormen,109.50
+Fruit,苹果,甜,斤,10.00
+Fruit,香蕉,香甜,斤,8.50
+Fruit,橙子,酸甜,斤,12.00
